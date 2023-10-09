@@ -1,0 +1,66 @@
+{
+  "palette": [
+    {
+      "id": "-FqVqmk07IBrMDNEkWIwO",
+      "name": "Cours",
+      "value": "#ff007b"
+    },
+    {
+      "id": "297KPlapKJa6hO20DUezj",
+      "name": "Autre",
+      "value": "#ff0000"
+    },
+    {
+      "id": "tws0-5fNTi5bjERCMB1df",
+      "name": "Exposés",
+      "value": "#db29ff"
+    },
+    {
+      "id": "O2MEt-3oDt6W96MtMLCLO",
+      "name": "Devoir",
+      "value": "#226ac9"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Travail a faire",
+      "color": "297KPlapKJa6hO20DUezj"
+    },
+    {
+      "path": "Travail a faire/10-10-2023.md",
+      "color": "297KPlapKJa6hO20DUezj"
+    },
+    {
+      "path": "Travail a faire/09-10-2023.md",
+      "color": "297KPlapKJa6hO20DUezj"
+    },
+    {
+      "path": "SVT",
+      "color": "-FqVqmk07IBrMDNEkWIwO"
+    },
+    {
+      "path": "Histoire-geo",
+      "color": "-FqVqmk07IBrMDNEkWIwO"
+    },
+    {
+      "path": "Definitions",
+      "color": "297KPlapKJa6hO20DUezj"
+    },
+    {
+      "path": "BREVET blc",
+      "color": "297KPlapKJa6hO20DUezj"
+    },
+    {
+      "path": "Anglais",
+      "color": "-FqVqmk07IBrMDNEkWIwO"
+    },
+    {
+      "path": "SVT/Lundi 09 Octobre 2023.md",
+      "color": "O2MEt-3oDt6W96MtMLCLO"
+    },
+    {
+      "path": "Travail a faire/11-10-2023.md",
+      "color": "297KPlapKJa6hO20DUezj"
+    }
+  ]
+}
