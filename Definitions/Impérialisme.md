@@ -1,3 +1,7 @@
+---
+tags:
+  - histoire
+---
 **impérialisme**
 1-Tout cas d’extension agressive de l’autorité  
 2-Une orientation politique qui prône les intérêts impériaux  
