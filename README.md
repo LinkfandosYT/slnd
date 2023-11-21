@@ -1,7 +1,9 @@
 # slnd networking
-## This shit can only be accessed by me! LOL.
+## Fait pour le brevet.
 
-Non plus sérieusement, Ce truc est là pour aider les élèves a prendre des traces écrites.
+Bon en gros c'est fait pour permettre aux élèves de 3e (en gros) D'accèder a des ressources en ligne GRATUITES pour le travail collaboratif (ou pas) en ligne.
+Le tout étant fait pour rentrer dans le cadre de l'éducation nationnale.
+### Bref. On commence quand? 
 
-Pour les demandes: MP ME @linkfandosyt sur discord
-
+🛠>[Ressources en ligne](https://github.com/LinkfandosYT/slnd/tree/main/ressources)
+✨>[Obsidian.md](https://github.com/LinkfandosYT/slnd/blob/main/.obsidian/)
