@@ -1,5 +1,7 @@
 # Simone Veil - La vie après Birkenau
-
+Crédits[^1]
+>[!NOTE]
+>Ceci est un **TRAVAIL DE GROUPE.** Plusieurs personnes ont travaillé sur ce MarkDown et sont crédité en bas de page.
 ### __Rédiger et répondre aux questions du livre__
 ***__Après votre lecture [2]__***
 
@@ -10,7 +12,7 @@
 >Ils vivent séparément.
 
 **3- A quelle occasion Simone a-t-elle été arrêtée?**
->re
+>En allant passer son Bac avec des vrais papiers d'identité.
 
 ***__Pour aller plus loin [2]__***
 
@@ -19,3 +21,12 @@
 Dit Hélène Berr, Jeunne fille juive parisienne de 21 ans, dans son journal en 1942.
 
 Imaginez une page de journal que Simone aurait pu écrire en prenant comme point de départ cette phrase empruntée au journal d'Hélène Berr. Votre texte fera une vingtaine de Lignes.
+
+>[!NOTE]
+>Document incomplet... Pour l'instant.
+
+
+
+
+[^1]: "La vie après Birkenau"- Simone Veil, Page 31 - 110
+[^2]: Rédigé par : Gaël Fandos, Clémence Bernard, Loane Jet, Ambre Latruffe
