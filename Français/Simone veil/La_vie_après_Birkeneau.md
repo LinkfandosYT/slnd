@@ -1,7 +1,7 @@
-# Simone Veil - La vie après Birkenau
-Crédits[^1]
+# Simone Veil - La vie après Birkenau[^1]
+
 >[!NOTE]
->Ceci est un **TRAVAIL DE GROUPE.** Plusieurs personnes ont travaillé sur ce MarkDown et sont crédité en bas de page.
+>Ceci est un **TRAVAIL DE GROUPE.[^2]** Plusieurs personnes ont travaillé sur ce MarkDown et sont crédité en bas de page.
 ### __Rédiger et répondre aux questions du livre__
 ***__Après votre lecture [2]__***
 
