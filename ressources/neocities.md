@@ -15,5 +15,5 @@
 
 https://neocities.org/
 
-[Retour à l'accueil](https://github.com/linkfandosYT/slnd/README.md)
-[Retour à ressources](https://github.com/linkfandosYT/slnd/ressources/README.md)
+[Retour à l'accueil](https://github.com/linkfandosYT/slnd/blob/main/README.md)
+[Retour à ressources](https://github.com/linkfandosYT/slnd/blob/main/ressources/README.md)
