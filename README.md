@@ -10,9 +10,9 @@ Voici des liens pour les ressources présentés dans ce Rep;
 
 ✨>[Obsidian.md](https://github.com/LinkfandosYT/slnd/blob/main/.obsidian/)
 
-✏>[Microsoft Office Online](https://github.com/LinkfandosYT/slnd/blob/main/ressources/office)
+✏>[Microsoft Office Online](https://github.com/LinkfandosYT/slnd/blob/main/ressources/office.md)
 
-🛠>[Toute les ressources](https://github.com/LinkfandosYT/slnd/tree/main/ressources)
+🛠>[Toute les ressources](https://github.com/LinkfandosYT/slnd/tree/main/ressources/README.md)
 
 # Ressources scolaires
  
